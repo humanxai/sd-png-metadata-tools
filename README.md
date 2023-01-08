@@ -22,7 +22,8 @@ python sdcaptionextract /path/to/input/folder
 
 If you do not provide a path, it will default to the current working directory.
 
-#sd-mega-caption
+# sd-mega-caption
+
 Extracts the prompt from .png files and places them into a single .txt file called Output.txt
 Avoids duplicates.
 
